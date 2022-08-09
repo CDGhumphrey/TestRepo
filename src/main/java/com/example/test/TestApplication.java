@@ -10,8 +10,12 @@ public class TestApplication {
 
 		System.out.println("second");
 
+		System.out.println("first second");
+
+
 		System.out.println("test print");
  
+
 		SpringApplication.run(TestApplication.class, args);
 	}
 
